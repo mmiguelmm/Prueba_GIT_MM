@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pruebaGitMM"
+    }
+  },
+  "defaultProject": "pruebaGitMM",
+  "cli": {
+    "analytics": "b3b8b3c3-c5e6-49a6-b767-67595a9d71ff"
+  }
 }
